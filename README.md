@@ -4,8 +4,6 @@
 <h2 align="center" style="color:#333333;">Desenvolvedor Back‑end Java | Spring | SQL</h2>
 
 ## Formação Acadêmica
-
-## Formação Acadêmica
 Cursando Análise e Desenvolvimento de Sistemas, com foco em lógica de programação, modelagem de dados e práticas de desenvolvimento consciente.
 
 ---
